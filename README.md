@@ -5,7 +5,7 @@ A palette generator made to practice ReactJS and include module SweetAlerts 🥳
 # Use: ✨
 ``` git clone https://github.com/RevanHUB/palette-generator/ ```
 
-Press "<Space>" or "Refresh button".
+Press "Space Button" or "Refresh button".
 # Know Issues: ✨
 
 It's simple but usefull! Hope you like it! 🥰
